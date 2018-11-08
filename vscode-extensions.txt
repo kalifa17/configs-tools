@@ -1,1 +1,2 @@
 ext install prettier-vscode: esbenp.prettier-vscode
+amatiasq.sort-imports
