@@ -4,5 +4,6 @@
     "workbench.colorTheme": "Atom One Dark",
     "files.autoSave": "onFocusChange",
     "javascript.updateImportsOnFileMove.enabled": "never",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.snippetSuggestions": "top"
 }
