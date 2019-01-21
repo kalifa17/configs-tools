@@ -1,4 +1,4 @@
-ext install prettier-vscode: esbenp.prettier-vscode
+esbenp.prettier-vscode
 amatiasq.sort-imports
 dbaeumer.vscode-eslint
 donjayamanne.githistory
