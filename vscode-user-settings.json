@@ -5,5 +5,6 @@
     "files.autoSave": "onFocusChange",
     "javascript.updateImportsOnFileMove.enabled": "never",
     "editor.formatOnSave": true,
-    "editor.snippetSuggestions": "top"
+    "editor.snippetSuggestions": "top",
+    "auto-rename-tag.activationOnLanguage": ["*"]
 }
