@@ -2,3 +2,4 @@ esbenp.prettier-vscode
 amatiasq.sort-imports
 dbaeumer.vscode-eslint
 donjayamanne.githistory
+formulahendry.auto-rename-tag
