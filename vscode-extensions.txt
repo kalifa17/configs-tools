@@ -3,3 +3,6 @@ amatiasq.sort-imports
 dbaeumer.vscode-eslint
 donjayamanne.githistory
 formulahendry.auto-rename-tag
+batisteo.vscode-django
+ms-python.python
+vscode-icons-team.vscode-icons
