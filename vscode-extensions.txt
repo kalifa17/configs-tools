@@ -1,8 +1,8 @@
 esbenp.prettier-vscode
 amatiasq.sort-imports
-dbaeumer.vscode-eslint
+eslint: dbaeumer.vscode-eslint
 donjayamanne.githistory
-formulahendry.auto-rename-tag
+rename: formulahendry.auto-rename-tag
 batisteo.vscode-django
 ms-python.python
 vscode-icons-team.vscode-icons
