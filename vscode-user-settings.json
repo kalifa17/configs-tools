@@ -1,6 +1,6 @@
 {
     "editor.wordWrap": "on",
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "workbench.colorTheme": "Atom One Dark",
     "files.autoSave": "onFocusChange",
     "javascript.updateImportsOnFileMove.enabled": "never",
