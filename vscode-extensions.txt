@@ -6,3 +6,4 @@ rename: formulahendry.auto-rename-tag
 batisteo.vscode-django
 ms-python.python
 vscode-icons-team.vscode-icons
+akamud.vscode-theme-onedark
