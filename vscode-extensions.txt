@@ -7,4 +7,4 @@ batisteo.vscode-django
 ms-python.python
 vscode-icons-team.vscode-icons
 akamud.vscode-theme-onedark
-rbbit.typescript-hero : Typescript Hero
+rbbit.typescript-hero : Typescript Hero . (usage: option + shift + o)
