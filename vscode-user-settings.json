@@ -1,10 +1,16 @@
 {
-    "editor.wordWrap": "on",
-    "window.zoomLevel": 1,
-    "workbench.colorTheme": "Atom One Dark",
-    "files.autoSave": "onFocusChange",
-    "javascript.updateImportsOnFileMove.enabled": "never",
-    "editor.formatOnSave": true,
-    "editor.snippetSuggestions": "top",
-    "auto-rename-tag.activationOnLanguage": ["*"]
+  "editor.wordWrap": "on",
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Atom One Dark",
+  "files.autoSave": "onFocusChange",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "editor.formatOnSave": true,
+  "editor.snippetSuggestions": "top",
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "prettier.eslintIntegration": true,
+  "prettier.printWidth": 120,
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescriptHero.imports.organizeOnSave": true
 }
